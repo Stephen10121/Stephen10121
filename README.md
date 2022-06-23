@@ -1,7 +1,7 @@
 ## ```whoami```
 - Hi, I’m @Stephen10121
 - I’m interested in software development.
-- I’m currently learning ReactJs and expressjs.
+- I’m currently learning Svelte and Apollo.
 - How to reach me: me@gruzservices.com
 
 ## ```ls ~/experience/```
