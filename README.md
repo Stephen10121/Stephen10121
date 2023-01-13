@@ -22,6 +22,8 @@
 - TypeORM
 - Apollo
 - Svelte
+
+## Widgets
 ![](https://komarev.com/ghpvc/?username=Stephen10121)
 <!---
 Stephen10121/Stephen10121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
