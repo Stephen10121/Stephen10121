@@ -21,9 +21,10 @@
 - Go
 - Python
 - Kotlin
+- React Native/Expo
 - SQL
 - HTML/CSS
-- React/Vue/Svelte
+- React/Vue/SvelteKit
 - Raspberry Pi
 - Linux
 - TypeORM
