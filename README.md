@@ -33,8 +33,8 @@
 ![](https://komarev.com/ghpvc/?username=Stephen10121)
 
 ## Contact
-- me@gruzservices.com
-- [Website](https://www.gruzservices.com)
+- me@stephengruzin.dev
+- [Website](https://www.stephengruzin.dev)
 <!---
 Stephen10121/Stephen10121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
