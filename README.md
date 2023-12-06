@@ -6,6 +6,7 @@
 <p align="center">
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen10121&langs_count=3&theme=transparent)]()
 </p>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen10121&langs_count=3&theme=transparent)]()
 
 ## ```whoami```
 <p align="center">
