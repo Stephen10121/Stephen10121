@@ -3,10 +3,9 @@
   <a target="_blank" href="https://www.gruzservices.com"><img src="https://img.shields.io/badge/my%20name%20is-green?style=for-the-badge&color=2196F3" /></a>&nbsp;
   <a target="_blank" href="https://www.gruzservices.com"><img src="https://img.shields.io/badge/Stephen%20Gruzin-orange?style=for-the-badge&color=00796B" /></a>&nbsp;
 </p>
-
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen10121&theme=transparent)](https://github.com/stephen10121)
-
+<p align="center">
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen10121&langs_count=3&theme=transparent)]()
+</p>
 
 ## ```whoami```
 <p align="center">
